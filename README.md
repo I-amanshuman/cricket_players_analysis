@@ -7,7 +7,7 @@ Fantasy cricket is one of the most influential and rising platforms where people
 
 Fantasy cricket is a part of the fantasy sports genre. It is an online game in which a virtual team of real cricket players is created and points are scored depending on how those players perform in real-life matches.
 
-I am trying to use the data available at https://www.espncricinfo.com of T20 World Cup 2020, to analyze the player performance, so as to build a team which has the highest chances of winning against any other team. Although this project is fictional in terms of implementation, this team can possibly outrank any other team or combination of players. 
+I am trying to use the data available at https://www.espncricinfo.com of T20 World Cup 2022, to analyze the player performance, so as to build a team which has the highest chances of winning against any other team. Although this project is fictional in terms of implementation, this team can possibly outrank any other team or combination of players. 
 
 **Methods used:**
 
