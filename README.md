@@ -10,6 +10,7 @@ Fantasy cricket is a part of the fantasy sports genre. It is an online game in w
 I am trying to use the data available at https://www.espncricinfo.com of T20 World Cup 2020, to analyze the player performance, so as to build a team which has the highest chances of winning against any other team. Although this project is fictional in terms of implementation, this team can possibly outrank any other team or combination of players. 
 
 **Methods used:**
+
 Step 1 (Extract): Scrap data from the above mentioned website using WebScrapper, Bright Data 
 The data which I have extracted consists of 4 JSON files, Match Summary, Batting Summary, Bowling Summary, Player Profile
 
